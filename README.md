@@ -8,7 +8,6 @@
 
 This project contains four PHP scripts that demonstrate CRUD (Create, Read, Update, Delete) operations using **PHP** and **PDO (PHP Data Objects)** for interacting with a MySQL database. Each script corresponds to a different real-world scenario.
 
-
 ## Files and Scenarios
 
 - **library.php** — Scenario 1: Book Library Management System  
