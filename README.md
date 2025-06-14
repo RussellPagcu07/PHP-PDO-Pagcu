@@ -8,7 +8,6 @@
 
 This project contains four PHP scripts that demonstrate CRUD (Create, Read, Update, Delete) operations using **PHP** and **PDO (PHP Data Objects)** for interacting with a MySQL database. Each script corresponds to a different real-world scenario.
 
----
 
 ## Files and Scenarios
 
@@ -17,4 +16,4 @@ This project contains four PHP scripts that demonstrate CRUD (Create, Read, Upda
 - **movie.php** — Scenario 3: Movie Rental System  
 - **timelog.php** — Scenario 4: Employee Timelog System
 
----
+
